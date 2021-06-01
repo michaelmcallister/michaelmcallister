@@ -28,15 +28,15 @@
             src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
     </a>
     <!-- VSCode  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code
+    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code
 &logoColor=white">
     </a>
     <!-- ViM  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim
+    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim
 &logoColor=white">
     </a>
     <!-- Linux  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux
+    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux
 &logoColor=black">
     </a>
     <!-- Git  -->
