@@ -28,20 +28,16 @@
             src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
     </a>
     <!-- VSCode  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code
-&logoColor=white">
+    <a href="#" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </a>
     <!-- ViM  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim
-&logoColor=white">
+    <a href="#" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-11AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     </a>
     <!-- Linux  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux
-&logoColor=black">
+    <a href="#" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </a>
     <!-- Git  -->
-    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git
-&logoColor=white">
+    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     </a>
 </p>
 <h3 align="center">Find me on</h3>
