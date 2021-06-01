@@ -21,14 +21,14 @@
 <p align="center">
     <!-- Go  -->
     <a href="https://github.com/michaelmcallister?tab=repositories&language=go" target="_blank"><img alt="Go"
-            src="https://img.shields.io/badge/-Go-29BEB0?style=for-the-badge&logo=Go&logoColor=white">
+            src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=Go&logoColor=white">
     </a>
     <!-- C  -->
     <a href="https://github.com/michaelmcallister?tab=repositories&language=c" target="_blank"><img alt="C"
-            src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white">
+            src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
     </a>
     <!-- VSCode  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code
+    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code
 &logoColor=white">
     </a>
     <!-- ViM  -->
@@ -36,11 +36,11 @@
 &logoColor=white">
     </a>
     <!-- Linux  -->
-    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux
+    <a href="https://github.com/michaelmcallister/dotfiles" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux
 &logoColor=black">
     </a>
     <!-- Git  -->
-    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git
+    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git
 &logoColor=white">
     </a>
 </p>
