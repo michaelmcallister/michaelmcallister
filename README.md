@@ -11,7 +11,7 @@
     <samp>
         「 From Sydney, Australia 」
         <br>
-        「 Site Reliability Engineer @<b> <a href="https://goteleport.com/"Teleport</a></b> 」
+        「 Site Reliability Engineer @<b> <a href="https://goteleport.com/">Teleport</a></b> 」
         <br>
         <br>
     </samp>
