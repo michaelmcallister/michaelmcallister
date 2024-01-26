@@ -11,7 +11,7 @@
     <samp>
         「 From Sydney, Australia 」
         <br>
-        「 Staff Site Reliability Engineer @<b> <a href="https://www.commbank.com.au/">CommBank</a></b> 」
+        「 Principal Site Reliability Engineer @<b> <a href="https://www.commbank.com.au/">CommBank</a></b> 」
         <br>
         <br>
     </samp>
@@ -23,13 +23,6 @@
     <a href="https://github.com/michaelmcallister?tab=repositories&language=go" target="_blank"><img alt="Go"
             src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=Go&logoColor=white">
     </a>
-    <!-- C  -->
-    <a href="https://github.com/michaelmcallister?tab=repositories&language=c" target="_blank"><img alt="C"
-            src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
-    </a>
-    <!-- VSCode  -->
-    <a href="#" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </a>
     <!-- ViM  -->
     <a href="#" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-11AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     </a>
@@ -39,6 +32,8 @@
     <!-- Git  -->
     <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     </a>
+    <!-- Kubernetes  -->
+    <a href="#" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a>
 </p>
 <h3 align="center">Find me on</h3>
 <p align="center">
@@ -58,5 +53,8 @@
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/mpmcallister/" target="_blank"><img alt="Linkedin"
             src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="https://raw.githubusercontent.com/michaelmcallister/CV/master/resume/resume.pdf">
+        <img alt="CV" src="https://img.shields.io/badge/-Resume-3A3B3C?style=flat-square&logo=Read.cv&logoColor=white" />
     </a>
 </p>
