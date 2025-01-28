@@ -11,7 +11,7 @@
     <samp>
         「 From Sydney, Australia 」
         <br>
-        「 Principal Site Reliability Engineer @<b> <a href="https://www.commbank.com.au/">CommBank</a></b> 」
+        「 Production Engineer @<b> <a href="https://optiver.com/">Optiver</a></b> 」
         <br>
         <br>
     </samp>
@@ -54,7 +54,7 @@
     <a href="https://www.linkedin.com/in/mpmcallister/" target="_blank"><img alt="Linkedin"
             src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
-    <a href="https://raw.githubusercontent.com/michaelmcallister/CV/master/resume/resume.pdf">
+    <a href="https://github.com/michaelmcallister/CV/releases/latest/download/resume.pdf">
         <img alt="CV" src="https://img.shields.io/badge/-Resume-3A3B3C?style=flat-square&logo=Read.cv&logoColor=white" />
     </a>
 </p>
