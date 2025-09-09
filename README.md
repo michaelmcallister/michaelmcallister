@@ -11,6 +11,8 @@
     <samp>
         「 From Sydney, Australia 」
         <br>
+        「 Living in Amsterdam, The Netherlands 」
+        <br>
         「 Production Engineer @<b> <a href="https://optiver.com/">Optiver</a></b> 」
         <br>
         <br>
